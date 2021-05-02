@@ -3,7 +3,7 @@ I'm GoldElysium, just another person who fell into the VTuber rabbit hole. Proud
 
 You can reach me on Discord via: `GoldElysium#0200`, mainly active in [HoloRes](https://discord.gg/HoloRes).
 
-Biggest project atm is [Suisei](https://github.com/HoloRes/Suisei), a bot specifically made for VTuber Discord server. Also helping out the [Hololive EN Fan server](https://discord.gg/holoenfans) with their [website](https://github.com/GoldElysium/hefs-website).
+Biggest project atm is [Suisei](https://github.com/HoloRes/Suisei), a bot specifically made for VTuber Discord servers. Also helping out the [Hololive EN Fan server](https://discord.gg/holoenfans) with their [website](https://github.com/GoldElysium/hefs-website).
 
 <!--
 **GoldElysium/GoldElysium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
